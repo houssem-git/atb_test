@@ -7,7 +7,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		
-		User amira=new User("Maalej","","Ariana Soghra");
+		User amira=new User("Maalej","houssem","Ariana Soghra");
 		UserService marhbe=new UserService();
 		
 		try {
